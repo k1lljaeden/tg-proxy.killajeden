@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-**Telegram MTProto WebSocket Proxy** — обход блокировок Telegram в России через Cloudflare.
+**Telegram MTProto WebSocket Proxy** — обход блокировок Telegram в России.
 
 ---
 
